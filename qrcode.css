@@ -1,0 +1,40 @@
+body{
+    background-color:  hsl(212, 45%, 89%);
+    /* border-radius: 5px; */
+}
+
+section{
+    background-color: white;
+    margin-left: 35%;
+    margin-top: 5%;
+    width: 27%;
+    border-radius: 20px;
+    height: 540px;
+   
+}
+
+img{
+    height: 325px;
+    width: 308px;
+    padding-left: 22px;
+    padding-top: 5%;
+    border-radius: 35px;
+}
+
+
+h2{
+    padding-bottom: 2%;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+}
+
+h1{
+    padding-bottom: 2%;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+
+}
