@@ -1,13 +1,21 @@
+* {
+    box-sizing: border-box;
+  }
+  
 body{
     background-color:  hsl(212, 45%, 89%);
-    /* border-radius: 5px; */
+    /* border-radius: 5px; ** {
+    box-sizing: border-box;
+  }
+  
+      /
 }
 
 section{
     background-color: white;
     margin-left: 35%;
     margin-top: 5%;
-    width: 27%;
+    width: 24.5%;
     border-radius: 20px;
     height: 540px;
    
